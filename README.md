@@ -77,6 +77,8 @@
 
 5) Strange question, but we're here to practice our English, and I'm going to present the situation again. Yes, 7 years ago I had a friend Joe who was such an angry and anxious person. I didn't know what his problem was, but it was an outstanding trait of his mind and my gut feeling told me that I needed to stop communicating with him, and then I heard the following: A little boy from Grove Street killed everyone around him (mother, father, brother, etc.), even himself.... So where is the alarm sounding? I spoke to parents and teachers beforehand, but no one believed me, and it's so sad....
 
+![Gifka](pictures/gif_2.gif)
+
 ---
 
 ## Lesson №3
@@ -126,5 +128,6 @@ The 5th lesson was about a phrasel verbs and prepositions. I think that it's bet
 - prepositions [here](https://stordar.ru/how-to-use-english-prepositions-complete-guide/) and [here](https://lingvist.com/ru/kursy/izuchit-angliyskiy-online/resursy/predlogi-angliiskom-jazyke/)
 - [amid-among-between](https://www.englishclass101.com/lesson/english-grammar-made-easy-121-amid-vs-among-vs-between?lp=172)
 
+![Gifka](pictures/gif_1.gif)
 ---
 
