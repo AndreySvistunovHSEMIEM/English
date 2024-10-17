@@ -53,13 +53,6 @@
 
 ## HW for the second lesson!
 
-### Vocabulary, that I've learnt during the HW:
-
----
-
-- **bend over for someone** - прогунться под кого-либо;
-- 
-
 ---
 
 ![Picture_2](pictures/image_2.png)
@@ -85,3 +78,53 @@
 5) Strange question, but we're here to practice our English, and I'm going to present the situation again. Yes, 7 years ago I had a friend Joe who was such an angry and anxious person. I didn't know what his problem was, but it was an outstanding trait of his mind and my gut feeling told me that I needed to stop communicating with him, and then I heard the following: A little boy from Grove Street killed everyone around him (mother, father, brother, etc.), even himself.... So where is the alarm sounding? I spoke to parents and teachers beforehand, but no one believed me, and it's so sad....
 
 ---
+
+## Lesson №3
+
+--- 
+
+- `part-time` - неполный рабочий день\частичная занятость;
+- `entrepreneur` - предприниматель;
+- `reinvent` - изобрести заново (**reinvent yourself** - создавать себе новый имидж);
+- `started-out` - начал, начинал (я начинал карьеру в Я);
+- `retrained` - переподготовка, переквалификация, переобучить;
+- `set up` - создать, учредить, установить, настроить;
+- `switch` - переключать что-то, включать что-то, переключаться на что-то (switch on the next example, switch off the light);
+- `advance` - развивать, продвигать, продвижение, наступление;
+
+![Picture_3](pictures/image_3.png)
+
+---
+
+## Lesson №4
+
+---
+
+- `agriculture` - сельское хозяйство, сельскохозяйственный;
+- `construction` - строительство, конструкция;
+- `social work` - социальная/общественная работа;
+- `banking` - банковское дело/услуги/деятельность/сфера;
+- `consultancy` - консалтинг, консультации, консультирование...;
+- `medicine` - медицинский, лекарство(а);
+- `journalism` - журналистика, публицистика;
+- `research` - исследование, научные исследования;
+- `publishing` - публикация, издание, издательство;
+- `accountanct` - бухгатерия (и всякая всячина, которая имеет тот же смысл);
+
+<img src="pictures/image_4.png" width="800" height="700">
+
+---
+
+## Lesson №5
+
+---
+
+The 5th lesson was about a phrasel verbs and prepositions. I think that it's better to past here a couple of links about this theme:
+- [first_link](https://stordar.ru/phrasal-verbs-basics/)
+- [second_link](https://habr.com/ru/articles/495794/)
+- [and 176 phrasel verbs...](https://poliglot16.ru/frazovye-glagoly/)
+- prepositions [here](https://stordar.ru/how-to-use-english-prepositions-complete-guide/) and [here](https://lingvist.com/ru/kursy/izuchit-angliyskiy-online/resursy/predlogi-angliiskom-jazyke/)
+- [amid-among-between](https://www.englishclass101.com/lesson/english-grammar-made-easy-121-amid-vs-among-vs-between?lp=172)
+
+---
+
