@@ -22,6 +22,8 @@
 - **particular** – конкретный; 
 - **intended** – предназначенный;
 
+![Gifka](pictures/gif_3.gif)
+
 ---
 
 ## Lesson №2
