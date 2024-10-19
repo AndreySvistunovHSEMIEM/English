@@ -8,7 +8,7 @@
 - [HW - 16.10.2024 (Maria)](#hw)
 - [Lesson №4 - 16.10.2024 (Maria)](#lesson-4)
 - [Lesson №5 - 17.10.2024 (Egor)](#lesson-5)
-- [Additional word study #1](#add-1)
+- [Additional word study №1](#add-1)
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
@@ -148,7 +148,7 @@
 
 <img src="static/pictures/image_4.png" width="800" height="700">
 
-## Additional word study #1
+## Additional word study №1
 <a name="add-1"></a>
 
 ## 🤓 Interesting phrases
