@@ -116,7 +116,7 @@
 ### 📚 Phrasal Verbs
 
 - **Basics of Phrasal Verbs**: [Learn the fundamentals](https://stordar.ru/phrasal-verbs-basics/) of using phrasal verbs in English.
-- **Article on Habr**: Explore a detailed study of [phrasal verbs](https://habr.com/ru/articles/495794/) in the English language.
+- **Article on Habr**: Explore a detailed study of [phrasal verbs](https://habr.com/ru/articles/495794/). There are 5 awesome articles about it (at the end you can find a link to the next article).
 - **Phrasal Verb List**: Familiarize yourself with [176 phrasal verbs](https://poliglot16.ru/frazovye-glagoly/) for your studies.
 
 ### 📜 Prepositions
