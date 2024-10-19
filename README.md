@@ -1,10 +1,16 @@
 # English vocabulary and HW
 
----
+## Table of Contents
+
+- [Lesson №1 - 10.10.2024 (Egor)](#lesson-1)
+- [Lesson №2 - 14.10.2024 (Maria)](#lesson-2)
+- [Lesson №3 - 15.10.2024 (Egor)](#lesson-3)
+- [HW - 16.10.2024 (Maria)](#hw)
+- [Lesson №4 - 16.10.2024 (Maria)](#lesson-4)
+- [Lesson №5 - 17.10.2024 (Egor)](#lesson-5)
 
 ## Lesson №1
-
----
+<a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
 - **Defensive** – оборонительный, защитный; 
 - **Innocent** – Невиновный, наивен,  простодушный;	
@@ -22,15 +28,14 @@
 - **particular** – конкретный; 
 - **intended** – предназначенный;
 
-![Gifka](pictures/gif_3.gif)
+![Gifka](static/pictures/gif_3.gif)
 
 ---
 
 ## Lesson №2
+<a name="lesson-2"></a>
 
----
-
-<img src="pictures/image_1.png" alt="Описание" width="1000" height="1200">
+<img src="static/pictures/image_1.png" alt="Описание" width="1000" height="1200">
 
 ---
 
@@ -54,10 +59,11 @@
 ---
 
 ## HW for the second lesson!
+<a name="hw"></a>
 
 ---
 
-![Picture_2](pictures/image_2.png)
+![Picture_2](static/pictures/image_2.png)
 
 ---
 
@@ -79,13 +85,12 @@
 
 5) Strange question, but we're here to practice our English, and I'm going to present the situation again. Yes, 7 years ago I had a friend Joe who was such an angry and anxious person. I didn't know what his problem was, but it was an outstanding trait of his mind and my gut feeling told me that I needed to stop communicating with him, and then I heard the following: A little boy from Grove Street killed everyone around him (mother, father, brother, etc.), even himself.... So where is the alarm sounding? I spoke to parents and teachers beforehand, but no one believed me, and it's so sad....
 
-![Gifka](pictures/gif_2.gif)
+![Gifka](static/pictures/gif_2.gif)
 
 ---
 
 ## Lesson №3
-
---- 
+<a name="lesson-3"></a>
 
 - `part-time` - неполный рабочий день\частичная занятость;
 - `entrepreneur` - предприниматель;
@@ -96,13 +101,39 @@
 - `switch` - переключать что-то, включать что-то, переключаться на что-то (switch on the next example, switch off the light);
 - `advance` - развивать, продвигать, продвижение, наступление;
 
-![Picture_3](pictures/image_3.png)
+![Picture_3](static/pictures/image_3.png)
 
 ---
 
 ## Lesson №4
+<a name="lesson-4"></a>
+
+### 📄 Class work
+
+- [Pdf worksheet](static/pdf-materials/prepositions_hard.pdf)
+- [Useful link from teacher](https://www.youtube.com/watch?v=gifsHPX-loQ&list=LL&index=2&t=999s&ab_channel=LearnEnglishwithPapaTeachMe)
+
+### 📚 Phrasal Verbs
+
+- **Basics of Phrasal Verbs**: [Learn the fundamentals](https://stordar.ru/phrasal-verbs-basics/) of using phrasal verbs in English.
+- **Article on Habr**: Explore a detailed study of [phrasal verbs](https://habr.com/ru/articles/495794/) in the English language.
+- **Phrasal Verb List**: Familiarize yourself with [176 phrasal verbs](https://poliglot16.ru/frazovye-glagoly/) for your studies.
+
+### 📜 Prepositions
+
+- A complete guide on [using prepositions](https://stordar.ru/how-to-use-english-prepositions-complete-guide/) in English.
+- You can find additional resources on prepositions [here](https://lingvist.com/ru/kursy/izuchit-angliyskiy-online/resursy/predlogi-angliiskom-jazyke/).
+
+### 🔍 Comparison of Prepositions
+
+- Understand the differences between [amid, among, and between](https://www.englishclass101.com/lesson/english-grammar-made-easy-121-amid-vs-among-vs-between?lp=172) for more precise usage in your language.
+
+![Gifka](static/pictures/gif_1.gif)
 
 ---
+
+## Lesson №5
+<a name="lesson-5"></a>
 
 - `agriculture` - сельское хозяйство, сельскохозяйственный;
 - `construction` - строительство, конструкция;
@@ -113,23 +144,6 @@
 - `journalism` - журналистика, публицистика;
 - `research` - исследование, научные исследования;
 - `publishing` - публикация, издание, издательство;
-- `accountanct` - бухгатерия (и всякая всячина, которая имеет тот же смысл);
+- `accountancy` - бухгалтерия (и всякая всячина, которая имеет тот же смысл);
 
-<img src="pictures/image_4.png" width="800" height="700">
-
----
-
-## Lesson №5
-
----
-
-The 5th lesson was about a phrasel verbs and prepositions. I think that it's better to past here a couple of links about this theme:
-- [first_link](https://stordar.ru/phrasal-verbs-basics/)
-- [second_link](https://habr.com/ru/articles/495794/)
-- [and 176 phrasel verbs...](https://poliglot16.ru/frazovye-glagoly/)
-- prepositions [here](https://stordar.ru/how-to-use-english-prepositions-complete-guide/) and [here](https://lingvist.com/ru/kursy/izuchit-angliyskiy-online/resursy/predlogi-angliiskom-jazyke/)
-- [amid-among-between](https://www.englishclass101.com/lesson/english-grammar-made-easy-121-amid-vs-among-vs-between?lp=172)
-
-![Gifka](pictures/gif_1.gif)
----
-
+<img src="static/pictures/image_4.png" width="800" height="700">
