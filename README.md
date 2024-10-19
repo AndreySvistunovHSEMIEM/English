@@ -8,7 +8,7 @@
 - [HW - 16.10.2024 (Maria)](#hw)
 - [Lesson №4 - 16.10.2024 (Maria)](#lesson-4)
 - [Lesson №5 - 17.10.2024 (Egor)](#lesson-5)
-- [Additional studying about the words](#add-1)
+- [Additional studying words](#add-1)
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
