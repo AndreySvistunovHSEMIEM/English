@@ -148,8 +148,6 @@
 
 <img src="static/pictures/image_4.png" width="800" height="700">
 
-Here's a more visually appealing and well-structured version of your "Additional Word Study №1" document:
-
 ---
 
 ## Additional Word Study №1
