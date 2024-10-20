@@ -189,8 +189,6 @@ Here's a more visually appealing and well-structured version of your "Additional
 - **Relative way**:  
   *The sun is the same in the relative way, but you're older* - **относительный путь**, **относительно тоже**.
 
-### 📜 Literary Expressions
-
 - **Come to naught**:  
   *Plans that either come to naught* - **свести на нет/к нулю**.
 
