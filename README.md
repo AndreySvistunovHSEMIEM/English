@@ -1,8 +1,8 @@
 # English vocabulary and HW
 
 ## Table of Contents
-<h1 style="font-family: Arial, sans-serif; font-size: 1.5em; color: #ffffff; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); letter-spacing: 1px; font-weight: bold; text-align: center; border: 2px solid #ffffff; border-radius: 15px; background-color: #333333; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); display: inline-block; margin: 50px auto;">October 2024:</h1>
 
+- **October 2024**:
   - [Lesson №1 - 10.10.2024 (Egor)](#lesson-1)
   - [Lesson №2 - 14.10.2024 (Maria)](#lesson-2)
   - [Lesson №3 - 15.10.2024 (Egor)](#lesson-3)
