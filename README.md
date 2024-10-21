@@ -1,71 +1,16 @@
 # English vocabulary and HW
 
 ## Table of Contents
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>October 2024 Lessons</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #4CAF50;
-            font-size: 36px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-            max-width: 600px;
-            margin: 20px auto;
-            border: 1px solid #4CAF50;
-            border-radius: 10px;
-            background-color: #fff;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        }
-        li {
-            padding: 15px;
-            border-bottom: 1px solid #eaeaea;
-            transition: background-color 0.3s;
-        }
-        li:last-child {
-            border-bottom: none;
-        }
-        li:hover {
-            background-color: #f0f8e6;
-        }
-        a {
-            text-decoration: none;
-            color: #4CAF50;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>October 2024</h1>
-    <ul>
-        <li><a href="#lesson-1">Lesson №1 - 10.10.2024 (Egor)</a></li>
-        <li><a href="#lesson-2">Lesson №2 - 14.10.2024 (Maria)</a></li>
-        <li><a href="#lesson-3">Lesson №3 - 15.10.2024 (Egor)</a></li>
-        <li><a href="#hw">HW - 16.10.2024 (Maria)</a></li>
-        <li><a href="#lesson-4">Lesson №4 - 16.10.2024 (Maria)</a></li>
-        <li><a href="#lesson-5">Lesson №5 - 17.10.2024 (Egor)</a></li>
-        <li><a href="#add-1">Additional word study №1</a></li>
-        <li><a href="#lesson-6">Lesson №6 - 21.10.2024 (Maria)</a></li>
-    </ul>
-</body>
-</html>
+<h1 style="font-family: Arial, sans-serif; font-size: 1.5em; color: #ffffff; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); letter-spacing: 1px; font-weight: bold; text-align: center; border: 2px solid #ffffff; border-radius: 15px; background-color: #333333; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); display: inline-block; margin: 50px auto;">October 2024:</h1>
 
+  - [Lesson №1 - 10.10.2024 (Egor)](#lesson-1)
+  - [Lesson №2 - 14.10.2024 (Maria)](#lesson-2)
+  - [Lesson №3 - 15.10.2024 (Egor)](#lesson-3)
+  - [HW - 16.10.2024 (Maria)](#hw)
+  - [Lesson №4 - 16.10.2024 (Maria)](#lesson-4)
+  - [Lesson №5 - 17.10.2024 (Egor)](#lesson-5)
+  - [Additional word study №1](#add-1)
+  - [Lesson №6 - 21.10.2024 (Maria)](#lesson-6)
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
