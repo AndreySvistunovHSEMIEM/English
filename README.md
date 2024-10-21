@@ -9,6 +9,8 @@
 - [Lesson №4 - 16.10.2024 (Maria)](#lesson-4)
 - [Lesson №5 - 17.10.2024 (Egor)](#lesson-5)
 - [Additional word study №1](#add-1)
+- [Lesson №6 - 21.10.2024 (Maria)](#lesson-6)
+
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
@@ -207,3 +209,54 @@
   - **Meaning** - Фраза может использоваться в различных контекстах — от описания религиозной службы до поэтического или литературного образа, где акцентируется внимание на духовной природе человека, его стремлениях и внутреннем состоянии.
 
 <img src="static/pictures/image_5.png" width="500" height="437">
+
+---
+
+## 📚 Lesson №6
+<a name="lesson-6"></a>
+
+### 🙉 New words
+
+- **pet peeve** - **раздражение** [🔗](https://dictionary.cambridge.org/ru/словарь/английский/pet-peeve)
+
+- **humiliation** - **унижение**, **хамское отношение** [🔗](https://context.reverso.net/перевод/английский-русский/humilitation)
+  
+- **facepalm** - She always does a `facepalm` when her mother starts asking her about boys. - **фейспалм** (рукалицо, лицоладонь) 
+  
+- **poke** - You'll `poke` someone in the eye with that umbrella if you are not careful! - **тыкать**, **совать**, **ткнуть**,  [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/poke)
+  
+- **pat** - I want to `pat` a cat really badly; such a pity I can't have one in my flat. - **хлопок**, **погладить**, **гладить** [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/pat)
+  
+- **slouch** - Don't `slouch` in your chair while working—it's bad for your back. - **сутулиться**, **сутулый**, **бездельник**, **дурак** [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/slouch)
+  
+- **slap** - In an instant, he `slapped` a couple of mosquitos on his arm. - **шлепать**, **хлопать**, **давать пощечину**, **шлепок**, **пощечина**  [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/slap)
+  
+- **cross arms** - I `crossed my arms`, pulled a face, and stared at the stranger. -  [🔗](https://dictionary.cambridge.org/ru/словарь/английский/cross-arms-fingers-legs)
+  
+- **fist bump** - After the game, we approached each other in order to `fist bump` and pay respect. - **ударить кулачками** [🔗](https://dictionary.cambridge.org/dictionary/english/fistbump)
+
+- **thumbs up** - Just give me a `thumbs up` if you have no further questions. - **большой палец вверх** (символ одобрения) [🔗](https://context.reverso.net/перевод/английский-русский/thumbs-up)
+  
+- **point a finger** - She `pointed a finger` at the sky and asked if I noticed a few strangely shaped clouds. - **показывать на кого-то пальцем** (обвинять кого-то) [🔗](https://dictionary.cambridge.org/ru/словарь/английский/point-the-finger-at)
+
+---
+
+### 🌟 Idioms
+
+- **pat on the back** - There there, boy, you've done everything you could and definitely deserve a `pat on the back`! - **похвала**, **поздравление** [🔗](https://dictionary.cambridge.org/dictionary/english-russian/a-pat-on-the-back)
+  
+- **slap on the wrist / to get off lightly** - Despite being caught cheating on his exams, the student received just a `slap on the wrist` with a warning not to do it again. - **мягкое наказание** [🔗](https://dictionary.cambridge.org/dictionary/english/slap-on-the-wrist)
+  
+- **point the finger** - She was quick to `point the finger` at her colleague Greg, accusing him of stealing documentation. - **возложить вину на кого-то**
+  
+- **fist slap in the face** - Your intelligence level is a `slap in the face` to the entire human race. - **оскорбление** [🔗](https://dictionary.cambridge.org/dictionary/english/slap-in-the-face)
+  
+- **give the finger up** - I `gave` my ex-boyfriend the `finger up` when he tried to apologize for cheating on me. - **показать кому-то средний палец** [🔗](https://dictionary.cambridge.org/dictionary/english/give-the-finger)
+  
+- **cross (someone) fingers** - I hope I will be able to buy some beer before the shops are closed, so `cross your fingers`! - **надеяться на лучшее**
+  
+- **poke the bear** - My grandma has finally stopped railing against tattoos and piercing, so don't poke the bear and get her going again! - **провоцировать кого-то** (не буди лихо, пока оно тихо) [🔗](https://dictionary.cambridge.org/ru/словарь/английский/poke-the-bear)
+
+![Gifka](static/pictures/gif_4.gif)
+
+--- 
