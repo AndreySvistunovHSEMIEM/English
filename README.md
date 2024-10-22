@@ -249,9 +249,9 @@
   
 - **point the finger** - She was quick to `point the finger` at her colleague Greg, accusing him of stealing documentation. - **возложить вину на кого-то**
   
-- **fist slap in the face** - Your intelligence level is a `slap in the face` to the entire human race. - **оскорбление** [🔗](https://dictionary.cambridge.org/dictionary/english/slap-in-the-face)
+- **slap in the face** - Your intelligence level is a `slap in the face` to the entire human race. - **оскорбление** [🔗](https://dictionary.cambridge.org/dictionary/english/slap-in-the-face)
   
-- **give the finger up** - I `gave` my ex-boyfriend the `finger up` when he tried to apologize for cheating on me. - **показать кому-то средний палец** [🔗](https://dictionary.cambridge.org/dictionary/english/give-the-finger)
+- **give the finger** - I `gave` my ex-boyfriend the `finger` when he tried to apologize for cheating on me. - **показать кому-то средний палец** [🔗](https://dictionary.cambridge.org/dictionary/english/give-the-finger)
   
 - **cross (someone) fingers** - I hope I will be able to buy some beer before the shops are closed, so `cross your fingers`! - **надеяться на лучшее**
   
