@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - October 2024:
+
     - [HW - 16.10.2024 (Maria)](#hw1)
 
 
