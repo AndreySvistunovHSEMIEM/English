@@ -2,7 +2,7 @@
 
 ## Reading
 
-- [Harry Potter Chapter 1](static/pdf-materials/HarryPotterFIrstChapter.pdf) [❌]
+- [Harry Potter Chapter 1](static/pdf-materials/HarryPotterFIrstChapter.pdf) and [Notes](static/additionalReadme/HarryPotter1.md) [❌]
 
 ## Table of Contents
 
