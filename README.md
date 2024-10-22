@@ -183,3 +183,23 @@
 ![Gifka](static/pictures/gif_4.gif)
 
 --- 
+
+
+## 🎓 Lesson №7
+
+- **treasure** - сокровище, вклад, достояние, дорожить, ценить, хранить [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/treasure);
+
+- **possesion** - the fact that you have or own something, something that you own or that you are carrying with you at a particular time [🔗](https://dictionary.cambridge.org/dictionary/english/possession);
+
+- **to belong to something/someone** - быть частью организации/принадлежать кому-то [🔗](https://dictionary.cambridge.org/ru/словарь/английский/belong-to);
+
+- **genuine** - искренний, настоящий, подлинный [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/genuine);
+
+- **borrow** - занимать, одалживать, брать заем [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/borrow);
+
+- **rubber** - резина (не только для стирание карандаша, но и резина для машин) [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/rubber);
+
+- **cotton** - хлопок [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/cotton);
+
+![Gifka](static/pictures/gif_5.gif)
+
