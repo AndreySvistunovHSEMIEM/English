@@ -1,5 +1,9 @@
 # English vocabulary and HW
 
+## Reading
+
+- [Harry Potter Chapter 1](static/pdf-materials/HarryPotterFIrstChapter.pdf) [❌]
+
 ## Table of Contents
 
 - **October 2024**:
