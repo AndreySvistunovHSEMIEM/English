@@ -255,7 +255,7 @@
   
 - **cross (someone) fingers** - I hope I will be able to buy some beer before the shops are closed, so `cross your fingers`! - **надеяться на лучшее**
   
-- **poke the bear** - My grandma has finally stopped railing against tattoos and piercing, so don't poke the bear and get her going again! - **провоцировать кого-то** (не буди лихо, пока оно тихо) [🔗](https://dictionary.cambridge.org/ru/словарь/английский/poke-the-bear)
+- **poke the bear** - My grandma has finally stopped railing against tattoos and piercing, so don't `poke the bear` and get her going again! - **провоцировать кого-то** (не буди лихо, пока оно тихо) [🔗](https://dictionary.cambridge.org/ru/словарь/английский/poke-the-bear)
 
 ![Gifka](static/pictures/gif_4.gif)
 
