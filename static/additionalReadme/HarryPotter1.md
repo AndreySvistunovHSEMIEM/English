@@ -76,7 +76,7 @@
 
 - **swooping** - падающий, пикирующий [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/swoop?q=swooping);
 
-- **bun** - булочка;
+- **bun** - булочка, пучок;
 
 - **to yell** - кричать, орать;
 
@@ -148,9 +148,57 @@
 
 - **to quiver** - дрожать, трепетать [🔗](https://context.reverso.net/перевод/английский-русский/quiver);
 
+- **to tuck into** - приступать к (еде) [🔗](https://dictionary.cambridge.org/dictionary/english-russian/tuck-in-tuck-into-sth);
 
+- **spectacles** - glasses;
 
+- **crooked** - not straight, not honest;
 
+- **to rummage** - to search for something that is difficult to find among other things [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/rummage);
+
+- **to chuckle** - усмехнуться [🔗](https://dictionary.cambridge.org/ru/словарь/английский/chuckle);
+
+- **to mutter** - бормотать [🔗](https://dictionary.cambridge.org/ru/словарь/английский/mutter);
+
+- **pavement** - a path with a hard surface on one or both sides of a road, that people walk on [🔗](https://dictionary.cambridge.org/ru/словарь/английский/pavement);
+
+- **flock** - a group of sheep, goats, or birds [🔗](https://dictionary.cambridge.org/ru/словарь/английский/flock?q=flocks);
+
+- **bound** -  certain or extremely likely to happen [🔗](https://dictionary.cambridge.org/ru/словарь/английский/bound);
+
+- **irritably** - in a way that shows that you become annoyed very easily [🔗](https://dictionary.cambridge.org/ru/словарь/английский/irritably);
+
+- **rumor** - an unofficial interesting story or piece of news that might be true or invented, and quickly spreads from person to person  [🔗](https://dictionary.cambridge.org/ru/словарь/английский/rumor);
+
+- **flinch** - to make a sudden, small movement because of pain or fear;
+
+- **exasperated** - extremely annoyed;
+
+- **to flatter** - to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere;
+
+- **earmuffs** - a pair of small pieces of material like fur worn over the ears with a strap that goes over the head to keep them on;
+
+- **to bow** - to bend your head or body forward, especially as a way of showing someone respect or expressing thanks to people who have watched you perform;
+
+- **to gasp** - to take a short, quick breath through the mouth, especially because of surprise, pain, or shock  [🔗](https://dictionary.cambridge.org/ru/словарь/английский/gasp);
+
+- **to nod** - to move your head down and then up, sometimes several times, especially to show agreement, approval, or greeting, or to show something by doing this [🔗](https://dictionary.cambridge.org/ru/словарь/английский/nod);
+
+- **glumly** - in a disappointed or unhappy way;
+
+- **to falter** - to lose strength or purpose and stop, or almost stop;
+
+- **a lace handkerchief** - кружевной платок;
+
+- **grudgingly** - ununwillingly;
+
+- **astride** - верхом;
+
+- **get a grip on yourself** - взять себя в руки;
+
+- **twinkling light** - мерцающий свет;
+
+And that's the end of it! I congratulate myself! The first chapter is finished. Only 17 more to go...
 
 
 
