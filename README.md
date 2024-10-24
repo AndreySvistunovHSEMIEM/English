@@ -26,6 +26,8 @@
 
   - [Lesson №7 - 22.10.2024 (Egor)](#lesson-7)
 
+  - [Lesson №8 - 23.10.2024 (Maria)](#lesson-8)
+
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
@@ -206,3 +208,18 @@
 
 ![Gifka](static/pictures/gif_5.gif)
 
+
+## 🌃 Lesson №8
+<a name="lesson-8"></a>
+
+- **to contradict** - (of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong: 
+
+  - I am not scared of `contradicting` my friends or parents at all, sometimes you just should have strong opinions.  [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/contradict);
+
+- **controversial** - causing disagreement or discussion:
+
+  -  The book was very `controversial`. [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/controversial);
+
+- **to scarce** - not easy to find or get:
+
+  - Food and clean water were becoming `scarce`. [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/scarce);
