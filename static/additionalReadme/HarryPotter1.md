@@ -252,5 +252,4 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 - **vigorously** - in a way that is very forceful and energetic [🔗](https://dictionary.cambridge.org/dictionary/english/vigorously);
 
-
-
+![Picture №1](../pictures/Cupboard.png)
