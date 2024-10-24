@@ -200,7 +200,57 @@
 
 And that's the end of it! I congratulate myself! The first chapter is finished. Only 17 more to go...
 
+### 👓 Second chapter
 
+- **tidy** - having everything in the right place and arranged in a good order [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/tidy);
+
+- **brass** - латунь [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/brass);
+
+- **lit up** - освещенный, освещать [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/lit+up);
+
+- **fateful** - роковой [🔗](https://dictionary.cambridge.org/dictionary/english-russian/fateful);
+
+- **mantlepiece** - каминная полка [🔗](https://dictionary.cambridge.org/dictionary/english-russian/mantelpiece);
+
+- **shrill** - having a loud and high sound that is unpleasant or painful to listen to [🔗](https://dictionary.cambridge.org/dictionary/english/shrill);
+
+- **rap on** - наброситься;
+
+- **screech** - to make an unpleasant, loud, high voice [🔗](https://dictionary.cambridge.org/dictionary/english/screech);
+
+- **tp demand** - требовать [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/demanded) and [🔗](https://dictionary.cambridge.org/dictionary/english/demand);
+
+- **to groan** - a deep, long sound showing great pain or unhappiness;
+
+- **comb**:
+
+    - `noun`: a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair;
+
+    - `verb`: to tidy your hair using a comb [🔗](https://dictionary.cambridge.org/dictionary/english/comb);
+
+- **meanwhile** - тем временем [🔗](https://dictionary.cambridge.org/dictionary/english/meanwhile);
+
+- **popkin** - ласковое обращение к ребенку;
+
+- **slug** - a small, usually black or brown creature with a long, soft body and no arms or legs, like a snail but with no shell [🔗](https://dictionary.cambridge.org/dictionary/english/slug);
+
+- **revolting** - отвращающий [🔗](https://dictionary.cambridge.org/dictionary/english/revolting);
+
+- **chimney** - дымоход;
+
+- **headmistress** - a woman who is in charge of a school [🔗](https://dictionary.cambridge.org/dictionary/english/headmistress);
+
+- **hoodlum** - a violent person, especially one who is member of a group of criminals;
+
+- **remarkably** - удивительно;
+
+- **knickerbocker glory** - a sweet dish consisting of layers of ice cream, fruit, jelly, and cream, served in a tall glass  [🔗](https://dictionary.cambridge.org/dictionary/english/knickerbocker-glory?q=knickerbocker);
+
+- **intently** - внимательно;
+
+- **boredom** - the state of being bored [🔗](https://dictionary.cambridge.org/dictionary/english/boredom);
+
+- **vigorously** - in a way that is very forceful and energetic [🔗](https://dictionary.cambridge.org/dictionary/english/vigorously);
 
 
 
