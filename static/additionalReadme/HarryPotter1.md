@@ -2,7 +2,16 @@
 
 ##  English vocabulary and the other stuff.
 
+## Table of Contents
+
+- [Chapter 1](#chapter-1)
+
+- [Chapter 2](#chapter-2)
+
+- [Chapter 3](#chapter-3)
+
 ### ⚡🤓🪄🦌 First chapter
+<a name="chapter-1"></a>
 
 - **be involved** - **быть вовлеченным** (в) - They were the last people you'd expect to `be involved` in anything strange or mysterious, ...
 
@@ -200,7 +209,8 @@
 
 And that's the end of it! I congratulate myself! The first chapter is finished. Only 17 more to go...
 
-### 👓 Second chapter
+### 🏰🧙‍♂️🪄🦁 Second chapter
+<a name="chapter-2"></a>
 
 - **tidy** - having everything in the right place and arranged in a good order [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/tidy);
 
@@ -253,3 +263,75 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 - **vigorously** - in a way that is very forceful and energetic [🔗](https://dictionary.cambridge.org/dictionary/english/vigorously);
 
 ![Picture №1](../pictures/Cupboard.png)
+
+
+## ⚯ϟ Third chapter
+
+- **be allowed out** - выпустили (из), разрешено [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/allowed+out) and [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/be+allowed+out);
+
+- **crutch** - a stick with a handle and a part that fits around your lower arm, or a stick with piece that fits under the arm, that you lean on for support if you have difficulty in walking because of a foot or leg injury [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/crutch?q=crutches);
+
+- **ray** - a narrow beam of light, heat, etc. travelling in a straight line from its place of origin [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/ray);
+
+- **maroon** - бордовый;
+
+- **tailcoat** - an old-fashioned type of man's coat, waist-length at the front and with the lower half of the back divided into two pieces, now only worn on very formal occasions [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/tailcoat);
+
+- **knickerbockers** - панталоны;
+
+- **rib** - a bone that curves round from your back to your chest [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/rib);
+
+- **doormat** - a piece of thick material that is put on the floor by a door, used to clean your shoes on when you go into a building [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/doormat);
+
+- **envelop** - a flat, usually square or rectangular, paper container for a letter [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/envelope);
+
+- **twang** - to make a noise like that of a tight string being quickly pulled and released [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/twang);
+
+- **parchment** - пергамент;
+
+- **badger** - барсук;
+
+- **snort** - to make an explosive sound by forcing air quickly up or down the nose [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/snort);
+
+- **faint** - to suddenly become unconscious for a short time, usually falling down [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/faint);
+
+- **by the scruff of the/your neck** - I took/grabbed him by the scruff of his neck and threw him out of the hall;
+
+- **keyhole** - замочная скважина;
+
+- **promptly** - quickly, without delay, or at the arranged time;
+
+- **tread - trod - trodden** - to put your foot on something or to press something down with your foot;
+
+- **squashy** - soft and easy to crush [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/squashy);
+
+- **through a mouthful of nails** - it is common practice to use one's mouth as an additional "hand" to hold small nontoxic objects [🔗](https://ell.stackexchange.com/questions/134248/what-does-through-a-mouthful-of-nails-mean-here);
+
+- **pelt** - to throw a number of things quickly at someone or something [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/pelt);
+
+
+- **outskirts** - the areas that form the edge of a town or city [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/outskirts);
+
+- **stale** - no longer new or fresh, usually as a result of being kept for too long;
+
+- **timidly** - in a shy or nervous way;
+
+- **suspension** - подвесной;
+
+- **snivel** - to cry slightly in a way that is weak and does not make other people feel sympathy for you;
+
+- **amble** - to walk in a slow and relaxed way;
+
+- **chilly** - cold [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/chilly);
+
+- **damp** - slightly wet, especially in a way that is not pleasant or comfortable;
+
+- **shrivel** - to become dry, smaller, and covered with lines as if by crushing or folding, or to make something do this [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/shrivel);
+
+- **ferociously** - свирепо, яростно;
+
+- **creak** - скрип;
+
+
+
+
