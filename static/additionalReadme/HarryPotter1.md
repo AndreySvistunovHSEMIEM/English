@@ -266,7 +266,7 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 
 ## ⚯ϟ Third chapter
-
+<a name="chapter-3"></a>
 - **be allowed out** - выпустили (из), разрешено [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/allowed+out) and [🔗](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/be+allowed+out);
 
 - **crutch** - a stick with a handle and a part that fits around your lower arm, or a stick with piece that fits under the arm, that you lean on for support if you have difficulty in walking because of a foot or leg injury [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/crutch?q=crutches);
