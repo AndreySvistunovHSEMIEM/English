@@ -10,6 +10,8 @@
 
 - [Chapter 3](#chapter-3)
 
+- [Chapter 4](#chapter-4)
+
 ### ⚡🤓🪄🦌 First chapter
 <a name="chapter-1"></a>
 
@@ -328,10 +330,83 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 - **shrivel** - to become dry, smaller, and covered with lines as if by crushing or folding, or to make something do this [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/shrivel);
 
+- **splatter** - забрызгивать, разбрызгиваться [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/splatter)
+
 - **ferociously** - свирепо, яростно;
 
 - **creak** - скрип;
 
 
+## 🧔🛖🏍🍺 Fourth chapter
+<a name="chapter-4"></a>
 
+- **cannon** - a very large gun, in the past one that was on wheels;
+
+- **skid into** - заноситься (в основном про vehicle, но видимо Uncle Vernon есть машина);
+
+- **rifle** - винтовка;
+
+- **hinge** - a piece of metal that fastens the edge of a door, window, lid, etc. to something else and allows it to open or close [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/hinge?q=hinges);
+
+- **beetle** - an insect with a hard shell-like back [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/beetle);
+
+- **frame** - a border that surrounds and supports a picture, door, or window;
+
+- **enormous** - extremely large;
+
+- **grate** - a metal structure that holds coal or wood in a fireplace [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/grate);
+
+- **bend** - to move your body or part of your body so that it is not straight:
+
+- **copper** - медь;
+
+- **amber** - янтарь, янтарный;
+
+- **liquid** - a substance, such as water, that is not solid or a gas and that can be poured easily;
+
+- **sizzling** - very hot;
+
+- **gulp** - глоток;
+
+- **cower** - to lower your head or body in fear, often while moving backwards [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/cower);
+
+- **explode** - to break up into pieces violently, or to cause something to do this [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/explode);
+
+- **bewildered** - confused and uncertain;
+
+- **syllable** - a single unit of speech, either a whole word or one of the parts into which a word can be separated, usually containing a vowel;
+
+- **witchcraft** - the activity of performing magic to help or harm other people;
+
+- **wizardry** - the skill of a wizard;
+
+- **deputy** - a person who is given the power to do something instead of another person, or the person whose rank is immediately below that of the leader of an organization [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/deputy);
+
+- **quil** - a pen made from a bird's feather, used in the past;
+
+- **dratted** - used for showing that you are angry or unhappy about something or with someone (проклятый, дрянной);
+
+- **outrage** - возмущение;
+
+- **gargoyles** - гаргульи;
+
+- **foghorn** - туманный горн;
+
+- **courage** - the ability to control your fear in a dangerous or difficult situation;
+
+- **reckon** - to think or believe;
+
+- **revenge** - месть;
+
+- **beam**:
+
+    - `verb`: to smile with obvious pleasure;
+
+    - `noun`: a line of light that shines from a bright object;
+
+- **ruefully** - in a way that shows that you are feeling sorry and wishing that something had not happened;
+
+- **expel** - to force someone to leave a school, organization, or country;
+
+- **dormouse** - грызун [wiki](https://en.wikipedia.org/wiki/Dormouse);
 
