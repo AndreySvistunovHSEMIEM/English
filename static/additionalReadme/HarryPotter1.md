@@ -1,5 +1,7 @@
 # Harry Potter and the Sorcerer's Stone
 
+- [Back to the README](../../README.md)
+
 ##  English vocabulary and the other stuff.
 
 ## Table of Contents
