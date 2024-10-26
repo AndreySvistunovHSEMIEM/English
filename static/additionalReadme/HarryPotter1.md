@@ -410,3 +410,4 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 - **dormouse** - грызун [wiki](https://en.wikipedia.org/wiki/Dormouse);
 
+![Hagrid](../pictures/hagrid.png)
