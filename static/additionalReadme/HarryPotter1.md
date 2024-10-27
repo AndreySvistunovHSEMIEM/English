@@ -14,6 +14,8 @@
 
 - [Chapter 4](#chapter-4)
 
+---
+
 ### ⚡🤓🪄🦌 First chapter
 <a name="chapter-1"></a>
 
@@ -213,6 +215,8 @@
 
 And that's the end of it! I congratulate myself! The first chapter is finished. Only 17 more to go...
 
+---
+
 ### 🏰🧙‍♂️🪄🦁 Second chapter
 <a name="chapter-2"></a>
 
@@ -268,6 +272,7 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 ![Picture №1](../pictures/Cupboard.png)
 
+---
 
 ## ⚯ϟ Third chapter
 <a name="chapter-3"></a>
@@ -338,6 +343,7 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 - **creak** - скрип;
 
+---
 
 ## 🧔🛖🏍🍺 Fourth chapter
 <a name="chapter-4"></a>
