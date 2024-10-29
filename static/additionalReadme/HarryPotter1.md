@@ -419,3 +419,133 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 - **dormouse** - грызун [wiki](https://en.wikipedia.org/wiki/Dormouse);
 
 ![Hagrid](../pictures/hagrid.png)
+
+
+---
+
+## 🏙️✨🧙‍♂️🛒 Fifth chapter
+
+- **to shut** - to (cause to) close something:
+    - Please `shut` the gate. [🔗](https://dictionary.cambridge.org/dictionary/english/shut);
+
+- **tightly** - firmly or closely:
+
+   - I've got a surprise for you! Shut your eyes `tightly` and hold out your hand [🔗](https://dictionary.cambridge.org/dictionary/english/tightly);
+
+- **collapsed** - рухнувший;
+
+- **claw** - коготь, клешня [🔗](https://dictionary.cambridge.org/dictionary/english/claw);
+
+- **beak** - the hard, pointed part of a bird's mouth;
+
+- **to scramble** - to move or climb quickly but with difficulty, often using your hands to help you [🔗](https://dictionary.cambridge.org/dictionary/english/scramble);
+
+- **to swell** - to become larger and rounder than usual; to (cause to) increase in size or amount;
+
+- **to wave** - to raise your hand and move it from side to side as a way of greeting someone, telling someone to do something, or adding emphasis to an expression;
+
+- **to snap**:
+    
+    1) to cause something that is thin to break suddenly and quickly with a cracking sound:
+
+       -  You'll `snap` that ruler if you bend it too far.
+    
+    2) to suddenly become unable to control a strong feeling, especially anger:
+
+        - When she asked me to postpone my trip to help her move to her new house, I just `snapped` (= got angry).
+
+- **fiercely** - in a frightening, violent, or powerful way;
+
+- **to savage** - If an animal savages someone, it attacks them violently and causes serious injuries [🔗](https://dictionary.cambridge.org/dictionary/english/savage);
+
+- **pellet** - the solid waste of particular animals [🔗](https://dictionary.cambridge.org/dictionary/english/pellet);
+
+- **peppermit** - a strong fresh flavouring from a type of mint plant, used especially to give flavour to sweets [🔗](https://dictionary.cambridge.org/dictionary/english/peppermint);
+
+- **handful** - горстка;
+
+- **pouch** - a bag or soft container for a small object or a small amount of something [🔗](https://dictionary.cambridge.org/dictionary/english/pouch);
+
+- **puncture**:
+    
+    - **verb** - to suddenly make someone less confident or positive **OR** to make a small hole in something, or to get a small hole in something;
+
+    - **noun** - a small hole made by a sharp object, especially in a tyre;
+
+- **to gleam** - to produce or reflect a small, bright light;
+
+- **enchantment** - something that is thought to have magical power over someone (я думаю, что это чары);
+
+- **summat** - something;
+
+- **blimey** - черт побери, блин;
+
+- **clamber** - o climb up, across, or into somewhere with difficulty, using the hands and the feet;
+
+- **stitch** - a piece of thread sewn in cloth, or the single movement of a needle and thread into and out of the cloth that produces this [🔗](https://dictionary.cambridge.org/dictionary/english/stitch?q=stitches);
+
+- **plain** - not decorated in any way; with nothing added;
+
+- **fungus** (plural fungi) - any of various types of organisms that get their food from decaying material or other living things;
+
+- **pewter** - смесь олова и свинца;
+
+- **cauldron** - a large, round container for cooking in, usually supported over a fire, and used especially in the past;
+
+- **broomstick** - метла;
+
+- **bustling** - If a place is bustling, it is full of busy activity;
+
+- **to halt** - to (cause to) stop moving or doing something or happening;
+
+- **to steer** - to take someone or something or make someone or something go in the direction in which you want him, her, or it [🔗](https://dictionary.cambridge.org/dictionary/english/steer);
+
+- **shabby** - looking old and in bad condition because of being used for a long time or not being cared for;
+
+- **bartender** - бармен;
+
+- **buzz** - шум [🔗](https://dictionary.cambridge.org/dictionary/english/buzz);
+
+- **delighted** - very pleased;
+
+- **to babble** - to talk or say something in a quick, confused, excited, or silly way;
+
+- **courtyard** - an area of flat ground outside that is partly or completely surrounded by the walls of a building;
+
+- **bloke** - a man, often one who is considered to be ordinary;
+
+- **to wriggle** - o move somewhere using short, quick twisting movements [🔗](https://dictionary.cambridge.org/dictionary/english/wriggle);
+
+- **archway** - арка;
+
+- **instantly** - immediately;
+
+- **plump** - пухлый(ая);
+
+- **burnished** - smooth and shiny, usually because of being polished (= rubbed);
+
+- **swarthy** - (of a person or their skin) dark;
+
+- **to engrave** - to cut words, pictures, or patterns into the surface of metal, stone, etc.:;
+
+- **greed** - a very strong wish to continuously get more of something, especially food or money;
+
+- **torch** - факел;
+
+- **maze** - лабиринт;
+
+- **mound** - a large pile of earth, stones, etc. like a small hill;
+
+- **ravine** - a deep narrow valley with steep sides;
+
+- **mauve** - лиловый;
+
+- **to smuggle** - to take things or people to or from a place secretly and often illegally;
+
+- **toad** - жаба;
+
+- **elbow** - локоть;
+
+- **armpit** - подмышка;
+
+![Picture](../pictures/diagonAlley.png)
