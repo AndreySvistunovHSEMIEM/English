@@ -14,6 +14,8 @@
 
 - [Chapter 4](#chapter-4)
 
+- [Chapter 5](#chapter-5)
+
 ---
 
 ### ⚡🤓🪄🦌 First chapter
@@ -424,6 +426,7 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 ---
 
 ## 🏙️✨🧙‍♂️🛒 Fifth chapter
+<a name="chapter-5"></a>
 
 - **to shut** - to (cause to) close something:
     - Please `shut` the gate. [🔗](https://dictionary.cambridge.org/dictionary/english/shut);
