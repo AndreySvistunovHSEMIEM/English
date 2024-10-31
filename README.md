@@ -28,6 +28,8 @@
 
   - [Lesson №8 - 23.10.2024 (Maria)](#lesson-8)
 
+  - [Lesson №11 - 30.10.2024 (Maria)](#lesson-11)
+
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
@@ -231,3 +233,46 @@
   - Food and clean water were becoming `scarce`. [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/scarce);
 
 - **an arrogant** - unpleasantly proud and behaving as if you are more important than, or know more than, other people [🔗](https://dictionary.cambridge.org/ru/словарь/английский/arrogant);
+
+## 🎃 Lesson №11
+<a name="lesson-11"></a>
+
+### 🌟 Idioms
+
+- **the last/final nail in the coffin** - an event that causes the failure of something that had already started to fail [🔗](https://dictionary.cambridge.org/dictionary/english-russian/the-final-nail-in-the-coffin):
+
+  1)  This latest evidence could be `the final nail in the coffin` for Jackson's case;
+
+  2)  I am quite forgiving, but talking about me behind my back is just like putting `the last nail in the coffin`;
+
+- **to lie like a tombstone** - To lie brazenly and barefacedly. Possibly from the fact that tombstone epitaphs favor positive descriptions of the deceased over factual characterizations [🔗](https://www.deepl.com/ru/translator#en/ru/To%20lie%20brazenly%20and%20barefacedly.%20Possibly%20from%20the%20fact%20that%20tombstone%20epitaphs%20favor%20positive%20descriptions%20of%20the%20deceased%20over%20factual%20characterizations.):
+  
+  1)  If I really wanted to get a job, I'd be okay with `lying like a tombstone` on my resume;
+
+  2)  My brother always `lies like a tombstone` to get out of trouble with our parents. I just can't understand how they still believe him at this stage;
+
+- **be like taking candy from a baby** - to be very easy [🔗](https://dictionary.cambridge.org/dictionary/english/be-like-taking-candy-from-a-baby):
+
+  1) Beating them was the easiest thing in the world - it `was like taking candy from a baby`;
+
+  2) Making me angry `is like taking candy from a baby`. I lose my temper very quickly;
+
+- **devil-may-care** - not considering or worrying about the results of your actions [🔗](https://dictionary.cambridge.org/dictionary/english/devil-may-care);
+
+- **to haunt** - If an unpleasant memory or feeling haunts you, you think about or feel it often **OR** If a ghost haunts a place, it appears there often;
+
+- **a haunt** - a place that someone visits often [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/haunt);
+
+- **to give up the ghost** - If someone gives up the ghost, they stop trying to do something because they no longer believe they can do it successfully. If a machine gives up the ghost, it stops working [🔗](https://www.collinsdictionary.com/dictionary/english/to-give-up-the-ghost#:~:text=Definition%20of%20'to%20give%20up%20the%20ghost'&text=If%20someone%20gives%20up%20the,they%20can%20do%20it%20successfully.);
+
+- **get it into/through one's thick skull** - to realize or understand [🔗](https://www.merriam-webster.com/dictionary/get%20it%20into%2Fthrough%20one%27s%20thick%20skull);
+
+- **can't hold a candle to** - to not be as good as the person or thing mentioned [🔗](https://dictionary.cambridge.org/dictionary/english/can-t-hold-a-candle-to);
+
+### 📚 Words
+
+- **breadwinner** - he member of a family who earns the money that the family needs [🔗](https://dictionary.cambridge.org/dictionary/english/breadwinner);
+
+- **nun** - a member of a female religious group that lives in a convent (монастырь) [🔗](https://dictionary.cambridge.org/dictionary/english/nun);
+
+<img src="static/pictures/Nun.jpg" width="600" height="1020">
