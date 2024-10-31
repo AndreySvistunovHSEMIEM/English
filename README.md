@@ -271,7 +271,7 @@
 
 ### 📚 Words
 
-- **breadwinner** - he member of a family who earns the money that the family needs [🔗](https://dictionary.cambridge.org/dictionary/english/breadwinner);
+- **breadwinner** - the member of a family who earns the money that the family needs [🔗](https://dictionary.cambridge.org/dictionary/english/breadwinner);
 
 - **nun** - a member of a female religious group that lives in a convent (монастырь) [🔗](https://dictionary.cambridge.org/dictionary/english/nun);
 
