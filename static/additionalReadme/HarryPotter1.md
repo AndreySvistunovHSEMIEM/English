@@ -16,6 +16,8 @@
 
 - [Chapter 5](#chapter-5)
 
+- [Chapter 6](#chapter-6)
+
 ---
 
 ### ⚡🤓🪄🦌 First chapter
@@ -552,3 +554,94 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 - **armpit** - подмышка;
 
 ![Picture](../pictures/diagonAlley.png)
+
+---
+
+### ⚡🤓🪄🦌 Sixth chapter
+<a name="chapter-6"></a>
+
+- **ruddy** - румяный;
+
+- **trunk** - a large, strong container that is used for storing clothes and personal possessions, often when travelling or going to live in a new place [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/trunk);
+
+- **desperate** - feeling that you have no hope and are ready to do anything to change the bad situation you are in [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/desperate);
+
+- **stranded** - unable to leave somewhere because of a problem such as not having any transport or money;
+
+- **to swing** - to move easily and without interruption backwards and forwards or from one side to the other, especially from a fixed point, or to cause something or someone to do this [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/swing);
+
+- **briskly** - in a quick, energetic way;
+
+- **gangly/gangling** - A person, usually a boy or young man, who is very tall and thin and moves awkwardly;
+
+- **to jostle** - to knock or push roughly against someone in order to move past them or get more space when you are in a crowd of people;
+
+- **stem engine** - a vehicle with an engine powered by steam, used for pulling trains [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/steam-engine);
+
+- **wrought** - made or done in a careful or decorative way;
+
+- **disgruntled** - unhappy, annoyed, and disappointed about something;
+
+- **carriage** - any of the separate parts of a train in which the passengers sit **OR** a vehicle with four wheels that is usually pulled by horses and was used mainly in the past;
+
+- **dreadlocks** - a hairstyle in which the hair hangs in long thick twisted pieces;
+
+- **lid** - a cover on a container, that can be lifted up or removed;
+
+- **shriek** - a short, loud, high cry, especially one produced suddenly as an expression of a powerful emotion;
+
+- **compartment** - one of the separate areas inside a vehicle, especially a train;
+
+- **to heave** - to move something heavy using a lot of effort;
+
+- **to gawk** - to look at something or someone in a stupid or rude way;
+
+- **to whistle** - свистеть;
+
+- **leap** - to increase, improve, or grow very quickly [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/leap);
+
+- **prefect** - an older student who is given some authority and helps to control the younger students;
+
+- **booger** - козявка;
+
+- **to flop** - to fall or drop heavily;
+
+- **whisker** - any of the long, stiff hairs growing on the face of a cat, mouse, or other mammal [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/whisker);
+
+- **prickle** - a feeling as if a lot of little points are sticking into your body;
+
+- **to confess** - признаваться, сознаться в ..., исповедоваться;
+
+- **tinge** - a very slight amount of a colour or of a feeling;
+
+- **pale** - used to describe a person's face or skin if it has less colour than usual, for example when the person is or ill or frightened, or if it has less colour than people generally have;
+
+- **riffraff** - people with a bad reputation or of a low social class;
+
+- **to rub** - to press or be pressed against something with a circular or up-and-down repeated movement [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/rub);
+
+- **knuckle** - one of the joints in the hand where your fingers bend, especially where your fingers join on to the main part of your hand;
+
+- **to lurk** - to wait or move in a secret way so that you cannot be seen, especially because you are about to attack someone or do something wrong [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/lurk);
+
+- **to scowl** - to look at someone or something with a very annoyed expression;
+
+- **throng** - a crowd or large group of people;
+
+- **to cram** - to force a lot of people or things into a small space [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/cram);
+
+- **steep** - (of a slope) rising or falling at a sharp angle [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/steep);
+
+- **perch** - to be in a high position or in a position near the edge of something, or to put something in this position;
+
+- **atop** - on or at the top of;
+
+- **starry** - lit by stars or shining like a star;
+
+- **turret** - circular tower;
+
+- **pebble** - a small smooth round stone, especially one found on a beach or in a river;
+
+- **blissfully** - in an extremely happy way [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/blissfully);
+
+![Picture](../pictures/Hogwarts.png)
