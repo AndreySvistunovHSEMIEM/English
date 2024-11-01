@@ -18,6 +18,8 @@
 
 - [Chapter 6](#chapter-6)
 
+- [Chapter 7](#chapter-7)
+
 ---
 
 ### ⚡🤓🪄🦌 First chapter
@@ -557,7 +559,7 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 
 ---
 
-### ⚡🤓🪄🦌 Sixth chapter
+### 👧🪄🦦📚🐈 Sixth chapter
 <a name="chapter-6"></a>
 
 - **ruddy** - румяный;
@@ -645,3 +647,57 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 - **blissfully** - in an extremely happy way [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/blissfully);
 
 ![Picture](../pictures/Hogwarts.png)
+
+---
+
+### 👦🪄🐕🐀 Seventh Chapter
+<a name="chapter-7"></a>
+
+- **flagged** - made of or covered in flagstones;
+
+- **drone** - a low continuous noise that does not change its note;
+
+- **chamber** - a room used for a special or official purpose, or a group of people who form (part of) a parliament;
+
+- **within** - в пределах, внутри, в рамках;
+
+- **smudged** - dirty or not clear;
+
+- **transparent** - If a substance or object is transparent, you can see through it very clearly;
+
+- **splendid** - excellent, or beautiful and impressive;
+
+- **goblet** - a container from which a drink, especially wine, is drunk, usually made of glass or metal, and with a stem and a base but no handles [🔗](https://dictionary.cambridge.org/dictionary/english/goblet);
+
+- **lantern** - a light inside a container that has a handle for holding it or hanging it up, or the container itself;
+
+- **to dot** - to be spread across an area, or to spread many similar things across an area [🔗](https://dictionary.cambridge.org/dictionary/english/dot?q=to+dot);
+
+- **sleek** - smooth, shiny, and lying close to the body, and therefore looking well cared for; not untidy and with no parts sticking out;
+
+- **to dwell** - to live in a place or in a particular way;
+
+- **chivalry** - very polite, honest, and kind behaviour, especially by men towards women;
+
+- **to vomit** - to empty the contents of the stomach through the mouth;
+
+- **queasy** - feeling that you want to vomit [🔗](https://dictionary.cambridge.org/dictionary/english/queasy);
+
+- **thirst** - a need for something to drink [🔗](https://dictionary.cambridge.org/dictionary/english/thirst);
+
+- **turban** - a head covering for a man, worn especially by Sikhs, Muslims, and Hindus, made from a long piece of cloth that is wrapped around the top of the head many times;
+
+- **miffed** - annoyed at someone's behaviour towards you;
+
+- **frown** - to bring your eyebrows together so that there are lines on your face above your eyes, often while turning the corners of your mouth downwards, showing that you are annoyed, worried, sad, or thinking hard [🔗](https://dictionary.cambridge.org/dictionary/english/frown);
+
+- **funeral** - a (usually religious) ceremony for burying or burning the body of a dead person;
+
+
+- **tapestry** - a piece of cloth with a pattern or picture that is created by sewing or weaving different coloured threads onto a special type of strong cloth;
+
+- **cackle** - to laugh in a loud, high voice [🔗](https://dictionary.cambridge.org/dictionary/english/cackle);
+
+- **spiral** - a shape made up of curves, each one above or wider than the one before [🔗](https://dictionary.cambridge.org/dictionary/english/spiral);
+
+![Picture](../pictures/SortedHat.jpeg)
