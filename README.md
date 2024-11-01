@@ -237,6 +237,10 @@
 ## 🎃 Lesson №11
 <a name="lesson-11"></a>
 
+### 📄 Class work
+
+- [Pdf worksheet](static/pdf-materials/VB_Halloween.pdf)
+
 ### 🌟 Idioms
 
 - **the last/final nail in the coffin** - an event that causes the failure of something that had already started to fail [🔗](https://dictionary.cambridge.org/dictionary/english-russian/the-final-nail-in-the-coffin):
