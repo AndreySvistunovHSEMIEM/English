@@ -30,6 +30,11 @@
 
   - [Lesson №11 - 30.10.2024 (Maria)](#lesson-11)
 
+- **November 2024**:
+
+  - [Lesson №13 - 04.11.2024 (Maria)](#-lesson-13)
+
+
 ## Lesson №1
 <a name="lesson-1"></a>
 - **Job seekers** – тот, кто ищет работу; 
@@ -280,3 +285,63 @@
 - **nun** - a member of a female religious group that lives in a convent (монастырь) [🔗](https://dictionary.cambridge.org/dictionary/english/nun);
 
 <img src="static/pictures/Nun.jpg" width="600" height="1020">
+
+## 😳 Lesson №13
+<a name="lesson-13"></a>
+
+### 📄 Class work
+
+- [Pdf worksheet](static/pdf-materials/IntroExtraVert.pdf)
+
+### 💬 Words and their explanations
+
+- **downtime** - time spent relaxing or not working (**informal**) `OR` the time during which a machine, especially a computer, is not working or is not able to be used [🔗](https://dictionary.cambridge.org/ru/словарь/английский/downtime);
+
+- **to thrive**  - to grow, develop, or be successful;
+
+- **to be into something** - to like and be interested in something;
+
+- **to see things through** - to remain with until the end or completion [🔗](https://www.collinsdictionary.com/dictionary/english-thesaurus/see-something-through);
+
+- **purposeful** - showing that you know what you want to do;
+
+- **sap**:
+  
+  - `verb` - If something saps your strength or confidence, it gradually weakens or destroys it;
+
+  - `noun` - Sap is the watery liquid in plants and trees [🔗](https://www.collinsdictionary.com/dictionary/english/sap);
+
+- **to curb** - to limit or control something;
+
+- **to keep on top of something** - to stay organized and manage sth effectively;
+
+- **to opt for** - select, choose, pick ...;
+
+---
+
+## 💩 Lesson №15
+<a name="lesson-15"></a>
+
+- **a fine** - an amount of money that has to be paid as a punishment for not obeying a rule or law [🔗](https://dictionary.cambridge.org/ru/словарь/английский/fine);
+
+- **to violate** - to break or act against something, especially a law, agreement, principle, or something that should be treated with respect **OR** to go, especially forcefully, into a place or situation which should be treated with respect and in which you are not wanted or not expected to be [🔗](https://dictionary.cambridge.org/ru/словарь/английский/violate);
+
+- **a deficiency** - the state of not having, or not having enough, of something that is needed [🔗](https://dictionary.cambridge.org/ru/словарь/английский/deficiency);
+
+- **jerky** - meat that has been cut into long, thin strips and dried [🔗](https://dictionary.cambridge.org/ru/словарь/английский/jerky);
+
+- **to mess (something) up** - to spoil or damage something, or to do something wrong or badly [🔗](https://dictionary.cambridge.org/ru/словарь/английский/mess-up);
+
+- **shallow** - not showing serious or careful thought [🔗](https://dictionary.cambridge.org/ru/словарь/английский/shallow);
+
+- **fleeting** - short or quick;
+
+- **to embrace** - to accept something enthusiastically [🔗](https://dictionary.cambridge.org/ru/словарь/английский/embrace);
+
+- **to snooze** - to sleep lightly for a short time, especially somewhere other than in your bed [🔗](https://dictionary.cambridge.org/dictionary/english/snooze);
+
+- **a fiend** - someone who likes something very much or is very interested in something [🔗](https://dictionary.cambridge.org/dictionary/english/fiend);
+
+- **solitry** - A solitary person or thing is the only person or thing in a place [🔗](https://dictionary.cambridge.org/dictionary/english/solitary);
+
+![Picture](static/pictures/NiggaSmokeFail.gif)
