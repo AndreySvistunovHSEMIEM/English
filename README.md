@@ -32,7 +32,9 @@
 
 - **November 2024**:
 
-  - [Lesson №13 - 04.11.2024 (Maria)](#-lesson-13)
+  - [Lesson №13 - 04.11.2024 (Maria)](#lesson-13)
+  
+  - [Lesson №14 - 15 - 06.11.2024 (Egor - Maria)](#lesson-15)
 
 
 ## Lesson №1
