@@ -22,6 +22,8 @@
 
 - [Chapter 8](#chapter-8)
 
+- [Chapter 9](#chapter-9)
+
 ---
 
 ### ⚡🤓🪄🦌 First chapter
