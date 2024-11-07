@@ -20,6 +20,8 @@
 
 - [Chapter 7](#chapter-7)
 
+- [Chapter 8](#chapter-8)
+
 ---
 
 ### ⚡🤓🪄🦌 First chapter
@@ -701,3 +703,65 @@ And that's the end of it! I congratulate myself! The first chapter is finished. 
 - **spiral** - a shape made up of curves, each one above or wider than the one before [🔗](https://dictionary.cambridge.org/dictionary/english/spiral);
 
 ![Picture](../pictures/SortedHat.jpeg)
+
+### 🏰👨‍🏫🪄⚗️🐍 Eighth chapter
+<a name="chapter-8"></a>
+
+- **tiptoe** - на цыпочках [🔗](https://dictionary.cambridge.org/ru/словарь/английский/tiptoe);
+
+- **rickety** - in bad condition and therefore weak and likely to break;
+
+- **solid** - certain or safe; of a good standard; giving confidence or support [🔗](https://dictionary.cambridge.org/dictionary/english/solid);
+
+- **wastepaper** - paper that has been used, is no longer wanted, and has been thrown away;
+
+- **rug** - a piece of thick heavy cloth smaller than a carpet, used for covering the floor or for decoration[🔗](https://dictionary.cambridge.org/dictionary/english/rug?q=rugs);
+
+- **caretaker** - a person employed to take care of a large building, such as a school, and who deals with the cleaning, repairs, etc.
+
+- **to rescue** - to help someone or something out of a dangerous, harmful, or unpleasant situation [🔗](https://dictionary.cambridge.org/dictionary/english/rescue);
+
+- **scrawny** - unpleasantly thin, often with bones showing;
+
+- **to patrol** - (especially of soldiers or the police) to go around an area or a building to see if there is any trouble or danger [🔗](https://dictionary.cambridge.org/dictionary/english/patrol);
+
+- **tear - tore - torn** - to pull or be pulled apart, or to pull pieces off;
+
+- **dunderhead** - a stupid person;
+
+- **boarhound** - The boarhound, also known as the Great Dane, is a large breed of dog used historically for hunting wild boars. Rubeus Hagrid's pet, Fang, was a boarhound, described as "enormous" and "black" [🔗](https://harrypotter.fandom.com/wiki/Boarhound);
+
+- **to drool** - to allow saliva (= liquid in the mouth) to flow out of your mouth;
+
+### 🏆🔥 Ninth chapter
+<a name="chapter-9"></a>
+
+- **to prod** - to push something or someone with your finger or with a pointed object **OR** to encourage someone to take action, especially when they are being slow or unwilling;
+
+- **gloatingly** - in a gloating way (= feeling pleasure because of your good luck or someone else's failure);
+
+- **wham** - ou use wham to indicate that something happens suddenly or forcefully [🔗](https://www.collinsdictionary.com/dictionary/english/wham);
+
+- **a thud** - A thud is a dull sound, such as that which a heavy object makes when it hits something soft [🔗](https://www.collinsdictionary.com/dictionary/english/thud);
+
+- **to hover** - to stay at or near a particular level [🔗](https://dictionary.cambridge.org/dictionary/english/hover?q=hovering);
+
+- **to soar** - to rise very quickly to a high level **OR** to reach a great height;
+
+- **to whoop** - to give a loud, excited shout, especially to show your enjoyment of or agreement with something [🔗](https://dictionary.cambridge.org/dictionary/english/whoop);
+
+- **javelin** - a long stick with a pointed end that is thrown in sports competitions [🔗](https://dictionary.cambridge.org/dictionary/english/javelin);
+
+- **to mingle** - to mix or combine, or be mixed or combined [🔗](https://dictionary.cambridge.org/ru/словарь/английский/mingle?q=mingled);
+
+- **nubbly** - in a way that shows no emotion because someone is very shocked, sad, frightened, etc.;
+
+- **bewildered** - confused and uncertain;
+
+- **cane** - a long stick used by people to help them walk;
+
+- **to beckon** - to move your hand, head, etc to show someone that you would like them to come nearer [🔗](https://dictionary.cambridge.org/ru/словарь/англо-русский/beckon);
+
+- **scurry** - to move quickly, with small, short steps;
+
+![Picture](../pictures/fluffy.jpg)
