@@ -352,6 +352,6 @@
 
 - **a fiend** - someone who likes something very much or is very interested in something [🔗](https://dictionary.cambridge.org/dictionary/english/fiend);
 
-- **solitry** - A solitary person or thing is the only person or thing in a place [🔗](https://dictionary.cambridge.org/dictionary/english/solitary);
+- **solitary** - A solitary person or thing is the only person or thing in a place [🔗](https://dictionary.cambridge.org/dictionary/english/solitary);
 
 ![Picture](static/pictures/NiggaSmokeFail.gif)
