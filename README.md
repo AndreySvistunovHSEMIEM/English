@@ -324,6 +324,14 @@
 ## 💩 Lesson №15
 <a name="lesson-15"></a>
 
+### 👃 Class work
+
+- [Work sheet](static/pdf-materials/selectively%20social%20pt2.pdf)
+
+- [Quiz](static/pdf-materials/reading%20downtime.pdf) (task 3)
+
+### 💬 Words and their explanations
+
 - **a fine** - an amount of money that has to be paid as a punishment for not obeying a rule or law [🔗](https://dictionary.cambridge.org/ru/словарь/английский/fine);
 
 - **to violate** - to break or act against something, especially a law, agreement, principle, or something that should be treated with respect **OR** to go, especially forcefully, into a place or situation which should be treated with respect and in which you are not wanted or not expected to be [🔗](https://dictionary.cambridge.org/ru/словарь/английский/violate);
