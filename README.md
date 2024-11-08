@@ -354,4 +354,17 @@
 
 - **solitary** - A solitary person or thing is the only person or thing in a place [🔗](https://dictionary.cambridge.org/dictionary/english/solitary);
 
+- **spreadsheet** - an electronic document in which information is arranged in rows and columns, and can be used to do financial calculations and plans [🔗](https://dictionary.cambridge.org/dictionary/english/spreadsheet);
+
+- **to deflate** - If something that has air or gas inside it deflates, or is deflated, it becomes smaller because it loses the air or gas [🔗](https://dictionary.cambridge.org/ru/словарь/английский/deflate);
+
+- **slacker** - a person who does not work hard enough;
+
+- **record** - a flat plastic disc on which music is recorded [🔗](https://dictionary.cambridge.org/ru/словарь/английский/record);
+
+- **sourdough** - a mixture of flour and water that is left to ferment (= change in a chemical process) and then used to make bread:
+  - `sourdough bread`;
+
+- **vortex** - a mass of air or water that spins around very fast and pulls objects into its empty centre [🔗](https://dictionary.cambridge.org/ru/словарь/английский/vortex);
+
 ![Picture](static/pictures/NiggaSmokeFail.gif)
