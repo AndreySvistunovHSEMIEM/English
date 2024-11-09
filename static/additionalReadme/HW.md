@@ -132,6 +132,6 @@ can help you to break free this social vortex:
 4) Check of your "social fund":  
     Imagine that you have certain amount of "social credits" for month. Decide how much of  
     them you are ready to spend for the event. This will solve misunderstanding when and 
-    where it's better to hand out.  
+    where it's better to hang out.  
 
 And remember, It's so important to take care of your own boundaries. This doesn't mean that you betray everyone. You have the right to relaxation. Enjoy downtime!
