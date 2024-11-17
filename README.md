@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-- [Songs](static/additionalReadme/Songs.md)
-
 - [Home tasks](static/additionalReadme/HW.md)
 
 - **October 2024**:
