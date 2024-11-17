@@ -34,24 +34,43 @@
   
   - [Lesson №14 - 15 - 06.11.2024 (Egor - Maria)](#lesson-15)
 
+  - [Lesson №17 - 11.11.2024 (Maria)](#lesson-17)
+
+  - [Lesson №18 - 12.11.2024 (Tanya)](#lesson-18)
 
 ## Lesson №1
 <a name="lesson-1"></a>
+
 - **Job seekers** – тот, кто ищет работу; 
+
 - **Defensive** – оборонительный, защитный; 
+
 - **Innocent** – Невиновный, наивен,  простодушный;	
+
 - **CV** – резюме;	
+
 - **The point of something** – суть чего-то (the point of the document);	
+
 - **Exaggeration** – Гипербола, преувеличение;	
+
 - **Good-natured rivalry** - добродушное соперничество (райвелри); 
+
 - **light-hearted response** - легкомысленный ответ; 
+
 - **foolproof answers** – безошибочные ответы;	
+
 - **geek** – гик (типо задрот);	
+
 - **decent** – достойный (decent chance);	
-- **work-life balance** – баланс между работой и жизнью (типо в нынешние времена все мы ужасно заняты работой, при этом забываем о личной жизни, или наоборот);	
+
+- **work-life balance** – баланс между работой и жизнью (типо в нынешние времена все мы ужасно заняты работой, при этом забываем о личной жизни, или наоборот);
+
 - **gut feeling** – интуиция, интуитивное чувство, чутье (интересно, что gut – это кишечник, то есть дословно это переводится так: кишечное чувство); 
+
 - **amusing** – смешная, забавная; 
+
 - **particular** – конкретный; 
+
 - **intended** – предназначенный;
 
 ![Gifka](static/pictures/gif_3.gif)
@@ -67,18 +86,25 @@
 
 - **weigh them down** - make a person feel worried or unhappy because of problems they are facing;
   - отягощать их (морально);
+
 - **in full swing** - currently happening or functioning at its peak or highest level of activity;
   - похоже на русское **полным ходом**;
+
 - **go beyond the game** - become a serious or worrying issue;
   - ну типо выйти за какие-то рамки, став серьезной проблемой;
+
 - **catching fire** - getting extreme popularity;
   - ну здесь все понятно, типо вот это ты, конечно, кэтчинг фаер;
+
 - **brush up on** - refresh your memory or get a better understanding of an issue;
   - ну да, типо освежить память по поводу чего-то;
+
 - **sound the alarm** - warn others about possible danger;
   - лучше всегод здесь подходит русское **Бить тревогу**;
+
 - **dive in with both feet** - immerse yourself into an activity or process;
   - просто синоним погружения, но более гиперболизированное;
+
 - **gain momentum** - to become stronger, more intense or popular;
   - опять же есть русский аналог **Набирать обороты**;
 
@@ -88,12 +114,19 @@
 <a name="lesson-3"></a>
 
 - `part-time` - неполный рабочий день\частичная занятость;
+
 - `entrepreneur` - предприниматель;
+
 - `reinvent` - изобрести заново (**reinvent yourself** - создавать себе новый имидж);
+
 - `started-out` - начал, начинал (я начинал карьеру в Я);
+
 - `retrained` - переподготовка, переквалификация, переобучить;
+
 - `set up` - создать, учредить, установить, настроить;
+
 - `switch` - переключать что-то, включать что-то, переключаться на что-то (switch on the next example, switch off the light);
+
 - `advance` - развивать, продвигать, продвижение, наступление;
 
 ![Picture_3](static/pictures/image_3.png)
@@ -366,3 +399,36 @@
 - **vortex** - a mass of air or water that spins around very fast and pulls objects into its empty centre [🔗](https://dictionary.cambridge.org/ru/словарь/английский/vortex);
 
 ![Picture](static/pictures/NiggaSmokeFail.gif)
+
+---
+
+## Lesson №17
+<a name="lesson-17"></a>
+
+- **flaky** - behaving in a way that is strange, not responsible or not expected [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/flaky);
+
+- **sincere** - (of a person, feelings, or behaviour) not pretending or lying; honest [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/sincere);
+
+- **hypocrite** - someone who says they have particular moral beliefs but behaves in way that shows these are not sincere [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/hypocrite?q=hypocrites);
+
+- **go ballistic** - to become extremely angry;
+
+---
+
+## Lesson №18
+<a name="lesson-18"></a>
+
+- **Herculean** - needing great strength and determination [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/herculean);
+
+- **the Midas touch** - If someone has the Midas touch, that person is financially successful in everything they do [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/midas?q=midas+touch);
+
+- **Gordian knot** - a difficult problem or situation [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/gordian-knot);
+
+- **Achilles heel** - a small problem or weakness in a person or system that can result in failure [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/achilles-heel?q=Achilles+heel);
+
+- **Augean Stables** - a place or situation where there is a lot of bad or dishonest behaviour that will be difficult to get rid of:
+
+  - A campaigning US attorney decided that Wall Street was an `Augean Stables` that he was destined to muck out [🔗](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/augean-stables);
+
+![Herculean](static/pictures/Herculean.png)
+
