@@ -14,6 +14,8 @@
 
     - [HW - 11.11.2024 (Maria)](#hw3)
 
+    - [HW - 18.11.2024 (Maria)](#hw4)
+
 
 ---
 
@@ -135,3 +137,32 @@ can help you to break free this social vortex:
     where it's better to hang out.  
 
 And remember, It's so important to take care of your own boundaries. This doesn't mean that you betray everyone. You have the right to relaxation. Enjoy downtime!
+
+
+## HW - 18.11.2024
+<a name="hw4"></a>
+
+
+1) I wish you were here.
+
+2) I wish I didn’t have to stay at home.
+
+3) I wish you wouldn’t meet with junkies.
+
+4) I wish my brother would have more bravery to realize his failure.
+
+5) I wish I had gone away before the event started. 
+
+6) I wish I could avoid these weirdos at some point.
+
+7) I wish we could meet again.
+
+8) I wish my teacher wouldn’t pay attention at my black complexion.
+
+9) I wish that you wish that you were happy.
+
+10) I wish that you wish that we wish she made gazillion dollars.
+
+11) I wish he would have wishing of smth that I wish.
+
+12) I wish we didn't make this ugliness because of our wishes.
