@@ -38,6 +38,13 @@
 
   - [Lesson №18 - 12.11.2024 (Tanya)](#lesson-18)
 
+  - [Lesson №21 - 18.11.2024 (Maria)](#lesson-21)
+
+  - [Lesson №22 - 19.11.2024 (Egor)](#lesson-22)
+
+  - [Lesson №23 - 20.11.2024 (Maria)](#lesson-23)
+
+
 ## Lesson №1
 <a name="lesson-1"></a>
 
@@ -432,3 +439,114 @@
 
 ![Herculean](static/pictures/Herculean.png)
 
+
+## Lesson №21
+<a name="lesson-21"></a>
+
+### 📄 Class work
+
+- [Pdf worksheet](static/pdf-materials/VB%20Lessons%20—%20Body%20Language.pdf)
+
+### 🌟 Idioms
+
+- I’m all ears = I’m listening very carefully
+
+  - Correct. This idiom means that someone is fully attentive and ready to listen.
+
+- She gave me a cold shoulder = She helped me a lot
+
+  - Incorrect. The correct definition is that “she ignored me” or “she was unfriendly to me.”
+
+- It makes my blood boil = I really enjoy it
+
+  - Incorrect. The correct definition is “it makes me very angry.”
+
+- Keep an eye on this = Look after this
+
+  - Correct. This idiom means to monitor or watch something carefully.
+
+- Off the top of my head = This is the first thing that comes to my mind
+
+  - Correct. It indicates giving an answer without much thought or preparation.
+
+- It costs an arm and a leg = It’s reasonably priced
+  
+  - Incorrect. The correct definition is “it is very expensive.”
+
+- We don’t see eye to eye on this = We don’t agree on this
+  
+  - Correct. This idiom means that two people do not have the same opinion.
+
+- I got cold feet = I was freezing because of the weather
+
+  - Incorrect. The correct definition is “I became nervous or scared about something.”
+
+- I have a gut feeling = My stomach is upset
+
+  - Incorrect. The correct definition is “I have an instinctive feeling about something.”
+
+- He gave me a pat on the back = He praised me for doing a great job
+
+  - Correct. This idiom means that someone acknowledged or congratulated you for your efforts.
+
+- It sends shivers down my spine = It makes my back hurt
+
+  - Incorrect. The correct definition is “it gives me a feeling of fear or excitement.”
+
+- I had to get my hands dirty = I had to do something unpleasant / not honorable
+
+  - Correct. This idiom means to become involved in a difficult or undesirable situation, usually for a practical purpose.
+
+## Lesson №22
+<a name="lesson-22"></a>
+
+- **to infuriate** - to make someone extremely angry [🔗](https://dictionary.cambridge.org/dictionary/english/infuriate);
+
+- **to frustrate** - to make someone feel annoyed or less confident because they cannot achieve what they want [🔗](https://dictionary.cambridge.org/dictionary/english/frustrate);
+
+- **to embarrass** - to cause someone to feel nervous, worried, or uncomfortable [🔗](https://dictionary.cambridge.org/dictionary/english/embarrass);
+
+- **to exhaust** - to make someone extremely tired [🔗](https://dictionary.cambridge.org/dictionary/english/exhaust);
+
+- **to disappoint** - to fail to satisfy someone or their hopes, wishes, etc., or to make someone feel unhappy [🔗](https://dictionary.cambridge.org/dictionary/english/disappoint);
+
+- **to amaze** - to cause someone to be extremely surprised [🔗](https://dictionary.cambridge.org/dictionary/english/amaze);
+
+- **to terrify** - to frighten someone very much [🔗](https://dictionary.cambridge.org/dictionary/english/terrify);
+
+- **to inspire** - to make someone feel that they want to do something and can do it [🔗](https://dictionary.cambridge.org/dictionary/english/inspire);
+
+- **to confuse** - to mix up someone's mind or ideas, or to make something difficult to understand [🔗](https://dictionary.cambridge.org/dictionary/english/confuse);
+
+- **to thrill** - to make someone feel very excited and pleased [🔗](https://dictionary.cambridge.org/dictionary/english/thrill?q=to+thrill);
+
+![Picture](static/pictures/thriller.jpg)
+
+---
+
+## Lesson №23
+<a name="lesson-23"></a>
+
+- **give and take** - willingness to accept suggestions from another person and give up some of your own [🔗](https://dictionary.cambridge.org/dictionary/english/give-and-take);
+
+- **take a page from someone's book** - to do the same thing that someone else has done [🔗](https://www.merriam-webster.com/dictionary/borrow%2Ftake%20a%20page%20from%20someone%27s%20book#:~:text=%3A%20to%20do%20the%20same%20thing%20that%20someone%20else%20has%20done);
+
+- **by the skin of your teeth** -  If you do something by the skin of your teeth, you only just succeed in doing it [🔗](https://dictionary.cambridge.org/dictionary/english/by-the-skin-of-teeth);
+
+- **whip someone into something** - If you whip someone into a particular state, you quickly and effectively cause them to be in that state [🔗](https://dictionary.cambridge.org/dictionary/english/whip-into);
+
+- **have a short fuse** - to get angry very easily [🔗](https://dictionary.cambridge.org/dictionary/english/have-a-short-fuse?q=short+fuse);
+
+- **rub shoulders (with someone)** - to meet and spend time with someone, especially someone famous [🔗](https://dictionary.cambridge.org/dictionary/english/rub-shoulders-with?q=rub+shoulders+with+someone);
+
+- **swollen head** - If someone has a swollen head, that person thinks they are more intelligent and more important than they really are [🔗](https://dictionary.cambridge.org/dictionary/english/swollen-head);
+
+- **tough cookie** - a person who is able to deal with difficult situations and not be easily defeated, frightened, or upset [🔗](https://dictionary.cambridge.org/dictionary/english/tough-cookie);
+
+- **nothing ventured, nothing gained** -  You have to take a risk in order to get something good [🔗](https://dictionary.cambridge.org/dictionary/english/nothing-ventured-nothing-gained?q=nothing+ventured%2C+nothing+gained);
+
+- **devastating** - causing a lot of damage or destruction **OR** making someone very shocked and upset [🔗](https://dictionary.cambridge.org/dictionary/english/devastating);
+
+- **intriguingly** - in a way that is very interesting because of being unusual or mysterious [🔗](https://dictionary.cambridge.org/dictionary/english/intriguingly);
+
+![Picture](static/pictures/Pahom.jpeg)
